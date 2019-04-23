@@ -1,0 +1,3 @@
+[submodule "MetagenomicDC"]
+	path = MetagenomicDC
+	url = https://github.com/Benjamin-Lee/MetagenomicDC.git
